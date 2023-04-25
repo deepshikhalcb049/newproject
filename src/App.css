@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background: black;
+  font-family: 'Inter';
+}
+.headstyle{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+color: #FFFFFF;
+display: flex;
+}
+.xyz{
+  position: absolute;
+/* left: 85.94%; */
+/* right: 11.98%; */
+/* top: 41.67%; */
+/* bottom: 25%; */
+
+/* White */
+
+background: #FFFFFF;
+transform: rotate(-180deg);
+}
+.anp{
+  /* display: block; */
+  display: flex;
+  margin-top: 10px;
+  /* font-weight: 100; */
+}
+.anpp{
+  /* display: block; */
+  /* margin-top: 10px; */
+  font-weight: 100;
+}
+.newt{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+margin-top: 3%;
+/* line-height: 150%; */
+}
+.newtt{
+  color: #757575;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;  
+
+}
+.newttt{
+  /* color: #757575; */
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;  
+
+}
